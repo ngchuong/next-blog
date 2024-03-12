@@ -1,0 +1,9 @@
+.tab-header {
+  color: #fff;
+  padding: 10px;
+  text-decoration: none;
+  &:hover {
+    color: #98A8F8;
+    text-decoration: underline;
+  }
+}
